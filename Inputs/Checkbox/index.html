@@ -1,0 +1,55 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkbox</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- CheckBox -->
+    <input type="checkbox" id="cb1" name="cb1" />
+    <label for="cb1">Checkbox 1</label>
+    <br />
+    <input type="checkbox" name="cb2" id="cb2" checked />
+    <label for="cb2">CheckBox 2</label>
+
+    <fieldset>
+      <legend>Wybierz opcje</legend>
+      <div>
+        <input type="checkbox" id="opcja1" name="opcja" />
+        <label for="opcja1">Opcja 1</label>
+      </div>
+      <div>
+        <input type="checkbox" id="opcja2" name="opcja" />
+        <label for="opcja2">Opcja 2</label>
+      </div>
+      <div>
+        <input type="checkbox" id="opcja3" name="opcja" />
+        <label for="opcja3">Opcja 3</label>
+      </div>
+    </fieldset>
+
+    <fieldset class="fieldset-przepis">
+      <legend>Rodzaje stanow - checkbox</legend>
+      <div>
+        <input type="checkbox" id="wymagania" name="wymagania" />
+        <label for="typ1">Wymagania</label>
+        <ul>
+          <li>
+            <input type="checkbox" name="skladnik1" id="skladnik1">
+            <label for="skladnik1">Skladnik 1</label>
+          </li>
+          <li>
+            <input type="checkbox" name="skladnik2" id="skladnik2">
+            <label for="skladnik2">Skladnik 2</label>
+          </li>
+          <li>
+            <input type="checkbox" name="skladnik3" id="skladnik3">
+            <label for="skladnik3">Skladnik 3</label>
+          </li>
+        </ul>
+
+    </fieldset>
+    <script src="index.js"></script>
+  </body>
+</html>

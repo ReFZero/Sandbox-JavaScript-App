@@ -1,0 +1,15 @@
+/* Odwolanie sie do elementu */
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Odwolanie do id `#` */
+#paragraphButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* odwolanie sie do klasy `.` */
+.btn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:firebrick;
+}

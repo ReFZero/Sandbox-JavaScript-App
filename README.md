@@ -1,4 +1,7 @@
 # JavaScript App 
-Repozytorium do testowania funkcjonalnosci jezyka JavaScript
+Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
+Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- Commit inicjalizacyjny
+- Dodano elementy typu Input, a w nich:
+  - Buttons
+  - Checkbox
