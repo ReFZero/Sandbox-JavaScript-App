@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <label>Start</label>
+    <input type="date" name="trip-start" value="2025-04-23" min="2025-01-01" max="2025-12-31">
+
+    <!-- Dodaje parametr bday do adresu -->
+    <form action="http://127.0.0.1:5500/Inputs/Date/index.html">
+        <label>
+          Enter your birthday:
+          <input type="date" name="bday" />
+        </label>
+        <select id="month" name="month">
+            <option selected>January</option>
+            <option>February</option>
+            <option>March</option>
+            <option>April</option>
+            <option>May</option>
+            <option>June</option>
+            <option>July</option>
+            <option>August</option>
+            <option>September</option>
+            <option>October</option>
+            <option>November</option>
+            <option>December</option>
+          </select>
+      
+        <p><button>Submit</button></p>
+      </form>
+
+    <script src="index.js"></script>
+</body>
+</html>
