@@ -2,9 +2,9 @@
 Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
 Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- RestOperator (...)
-- Callbacks
-- ForEach
+- Map()
+- Filter()
+- Reduce()
 #### Info:
 - Elementy typu Input:
   - Buttons
@@ -13,3 +13,6 @@ Dodatkowo zawiera elementy HTML i CSS
   - Date
 - Arrays ([ ])
 - SpreadOperator [...]
+- RestOperator (...)
+- Callbacks
+- ForEach
