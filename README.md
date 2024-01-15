@@ -2,12 +2,14 @@
 Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
 Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- Dodano elementy typu Input, a w nich:
+- RestOperator (...)
+- Callbacks
+- ForEach
+#### Info:
+- Elementy typu Input:
+  - Buttons
+  - Checkbox
   - Colors
   - Date
 - Arrays ([ ])
-- SpreadOperator (...)
-#### Info:
-  Elementy typu Input:
-  - Buttons
-  - Checkbox
+- SpreadOperator [...]
