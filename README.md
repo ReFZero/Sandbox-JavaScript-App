@@ -2,9 +2,10 @@
 Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
 Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- Map()
-- Filter()
-- Reduce()
+- Arrow functions ()=>{}
+- ObjectsJs - tworzenie prostych obiektów
+- Classes - tworzenie
+- Constructor
 #### Info:
 - Elementy typu Input:
   - Buttons
@@ -16,3 +17,6 @@ Dodatkowo zawiera elementy HTML i CSS
 - RestOperator (...)
 - Callbacks
 - ForEach
+- Map()
+- Filter()
+- Reduce()
