@@ -2,10 +2,12 @@
 Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
 Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- Closure
-- Date
-- NestedObjects
-- Sort
+- Errors
+- Module ES6
+- SyncAsync
+  - Async Await
+  - Callback Hell
+  - Promise
 #### Info:
 - Elementy typu Input:
   - Buttons
@@ -27,3 +29,7 @@ Dodatkowo zawiera elementy HTML i CSS
 - Descruturing
 - Getter & Setter
 - Inheritance
+- Closure
+- Date
+- NestedObjects
+- Sort
