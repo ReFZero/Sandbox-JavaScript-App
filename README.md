@@ -2,12 +2,13 @@
 Repozytorium do testowania funkcjonalnosci jezyka JavaScript.
 Dodatkowo zawiera elementy HTML i CSS
 #### Zmiany w ostatnim commicie:
-- Errors
-- Module ES6
-- SyncAsync
-  - Async Await
-  - Callback Hell
-  - Promise
+- ClassList
+- Dom Navigation
+- KeyEvents
+- Manipulate HTML
+- MouseEvent
+- NodeList
+- ShowHideElements
 #### Info:
 - Elementy typu Input:
   - Buttons
@@ -33,3 +34,9 @@ Dodatkowo zawiera elementy HTML i CSS
 - Date
 - NestedObjects
 - Sort
+- Errors
+- Module ES6
+- SyncAsync
+  - Async Await
+  - Callback Hell
+  - Promise

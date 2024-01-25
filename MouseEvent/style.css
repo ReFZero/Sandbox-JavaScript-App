@@ -1,0 +1,9 @@
+#box {
+  background-color: greenyellow;
+  width: 200px;
+  height: 200px;
+  font-size: 3rem;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+}
